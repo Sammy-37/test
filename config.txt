@@ -1,0 +1,5 @@
+#Configuration File V1.0
+[General]
+Project Name = My_Service
+Version = 1.0.0
+Environment = DEFAULT
